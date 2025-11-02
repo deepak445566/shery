@@ -94,12 +94,12 @@ function Foot() {
 <li>
   <a
     href={/Mobi|Android/i.test(navigator.userAgent)
-      ? "mailto:nehrarishabh16@gmail.com"
-      : "https://mail.google.com/mail/?view=cm&to=nehrarishabh16@gmail.com"}
+      ? "mailto:deepakpandey1212d@gmail.com"
+      : "https://mail.google.com/mail/?view=cm&to=deepakpandey1212d@gmail.com"}
     target="_blank"
     className="hover:text-[#7ED8CE] transition block py-1 break-words"
   >
-    ✉️ nehrarishabh16@gmail.com
+    ✉️ deepakpandey1212d@gmail.com
   </a>
 </li>
 
@@ -121,14 +121,14 @@ function Foot() {
 <li>
   { /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent) ? (
     <a 
-      href="tel:7982474628" 
+      href="tel:9911577652" 
       className="hover:text-[#7ED8CE] transition block py-1"
     >
-      📞 7982474628
+      📞 9911577652
     </a>
   ) : (
     <span className="block py-1">
-      📞 7982474628
+      📞9911577652
     </span>
   )}
 </li>
