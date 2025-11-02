@@ -5,8 +5,8 @@ import {ReactLenis} from "lenis/react";
 
 
 const projects = [
-  { title: "Project 1", src: "../img1.png", link: "https://verdant-moonbeam-8b4762.netlify.app/" },
-  { title: "Project 2", src: "../image.png", link: "https://example.com/project2" },
+  { title: "Project 1", src: "../img1.png", link: "https://gro-livid.vercel.app/" },
+  { title: "Project 2", src: "../image.png", link: "https://despaclasses.vercel.app/" },
   { title: "Project 3", src: "../img2.jpg", link: "https://viswakarma-developers.netlify.app/" },
 ];
 
